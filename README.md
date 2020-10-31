@@ -1,3 +1,3 @@
 # dillinger
 
-Test of using dillinger with github
+ [x] Test of using dillinger with github
