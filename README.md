@@ -5,6 +5,7 @@ This steganography server not only hides messages in images, it also encrypts th
 Messages can be plain text, Markdown, or an HTML document. The passphrases used to encrypt/decrypt messages are used on-the-fly and **NOT STORED ANYWHERE**, server or client side. (Thus, if you or recipient forget the passphase applied to an image - good luck  on decrypting the message!)
 
 >“Just because you're paranoid doesn't mean they aren't after you.”
+>
 >― Joseph Heller, Catch-22
 
 The server can be run exposed to the web (public) or as `localhost` (private). The most secure is to run the server private... but requires both the sender and receipiant to install the server on their local computers. Which is a no-brainer...
