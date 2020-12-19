@@ -12,7 +12,9 @@ The server can be run exposed to the web (public) or as `localhost` (private). T
 Must have [git][3] and [nodejs][4] installed.
 
 ```
-
+git clone tobedetermined
+cd stegano-server && npm install
+npm start
 ```
 
 [1]: https://github.com/mykeels/steganography
