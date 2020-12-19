@@ -1,3 +1,2 @@
-# dillinger
+# PotOfCoffee2Go Encrypted Steganography Server
 
- [x] Test of using dillinger with github
