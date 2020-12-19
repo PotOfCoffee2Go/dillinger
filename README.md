@@ -4,7 +4,7 @@ This steganography server not only hides messages in images, it also encrypts th
 
 Messages can be plain text, Markdown, or an HTML document. The passphrases used to encrypt/decrypt messages are used on-the-fly and **NOT STORED ANYWHERE**, server or client side. (Thus, if you or recipient forget the passphase applied to an image - good luck  on decrypting the message!)
 
-Dependancies are [Express][], [Mustache][], [highlightjs][], and [markdown-it][] which are used to run the site and render the text embedded in images.
+Dependancies are [Express][] _(thinking [koa][] would better? comment issue ???)_, [Mustache][], [highlightjs][], and [markdown-it][] which are used to run the site and render the text embedded in images.
 
 >“Just because you're paranoid doesn't mean they aren't after you.”
 >     ― Joseph Heller, Catch-22
