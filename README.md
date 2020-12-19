@@ -6,7 +6,7 @@ Messages can be plain text, Markdown, or an HTML document. The passphrases used 
 
 >“Just because you're paranoid doesn't mean they aren't after you.”
 >
->― Joseph Heller, Catch-22
+>$nbsp;$nbsp;$nbsp;― Joseph Heller, Catch-22
 
 The server can be run exposed to the web (public) or as `localhost` (private). The most secure is to run the server private... but requires both the sender and receipiant to install the server on their local computers. Which is a no-brainer...
 
