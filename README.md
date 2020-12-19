@@ -11,7 +11,7 @@ Dependancies are [Express][] _(thinking [koa][] would better? comment issue ???)
 
 The server can be run exposed to the web (public) or as `localhost` (private). The advantage to a public server is the images with encrypted text are available online. The most secure way to run the server is private and sneaker-net or email encrypted images to receipiants. A private sever requires both the sender and receipiant to install the server on their local computers. Regardless, the system installing the server must have [git][3] and [nodejs][4] installed.
 
-The install for a public server depends on the host provider, do they the support nodejs apps? How about {SSL][]?. [CORS][], [proxies][]? All of this stuff is Well beyond the scope of this README...  Given that, you could look into [ngrok][6] which can expose a private server on your machine to the web. The install for a public server is the same as for a private server - just has an added layer of complexity depending on your host provider.
+> The install for a public server depends on the host provider, do they the support nodejs apps? How about {SSL][]?. [CORS][], [proxies][]? All of this stuff is WELL beyond the scope of this README...  Given that, you could look into [ngrok][6] which can expose a private server on your machine to the web. The install for a public server is the same as for a private server - just has an added layer of complexity to install your host provided site.
  
  WTF? - let's get on with it! Just install as a private server and see it work! - so here it is...
  
