@@ -8,10 +8,10 @@ Messages can be plain text, Markdown, or an HTML document. The passphrases used 
 
 The server however does store encrypted/decripted images. Allows a directory list of images recently created and viewed.
 
+The server can be run exposed to the web (public) or as `localhost` (private). The advantage to a public server is the images with encrypted text are available online. Not going to cover that here as the install for a public server depends on the host provider, do they the support nodejs apps? How about {SSL][]?. [CORS][], [proxies][]? All of this stuff is WELL beyond the scope of this README...
+
 >“Just because you're paranoid doesn't mean they aren't after you.”
 >     ― Joseph Heller, Catch-22
-
-The server can be run exposed to the web (public) or as `localhost` (private). The advantage to a public server is the images with encrypted text are available online. Not going to cover that here as the install for a public server depends on the host provider, do they the support nodejs apps? How about {SSL][]?. [CORS][], [proxies][]? All of this stuff is WELL beyond the scope of this README...
 
 The most secure way to run the server is private and post or email encrypted images to receipiants. However, requires that both the sender and receipian0(s) install the server on their local computers.
 
@@ -29,6 +29,8 @@ cd TBD && npm install
 npm start
 ```
 If all goes well, in your browser go to `http://localhost:8000` and you are ready to encrypt your first message into an image. (if not goes well... grrr... submit an issue on [github][5]. Your feedback is appreciated.)
+> True terror is to wake up one morning and discover that your high school class is running the country.
+-- Kurt Vonnegut
 
 You can choose an image from you computer, let's say a pic of what you had for lunch (a facebook standard) and encrypt a message into it. The image with the text encrypted is displayed and you can right-click 'Save as...' - now post the image your FB wall.
 
