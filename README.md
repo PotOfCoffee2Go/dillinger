@@ -30,7 +30,7 @@ npm start
 ```
 If all goes well, in your browser go to `http://localhost:8000` and you are ready to encrypt your first message into an image. (if not goes well... grrr... submit an issue on [github][5]. Your feedback is appreciated.)
 > True terror is to wake up one morning and discover that your high school class is running the country.
--- Kurt Vonnegut
+<br> -- Kurt Vonnegut
 
 You can choose an image from you computer, let's say a pic of what you had for lunch (a facebook standard) and encrypt a message into it. The image with the text encrypted is displayed and you can right-click 'Save as...' - now post the image your FB wall.
 
