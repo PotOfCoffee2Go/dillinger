@@ -11,7 +11,7 @@ The server however does store encrypted/decripted images. Allows a directory lis
 The server can be run exposed to the web (public) or as `localhost` (private). The advantage to a public server is the images with encrypted text are available online. Not going to cover that here as the install for a public server depends on the host provider, do they the support nodejs apps? How about {SSL][]?. [CORS][], [proxies][]? All of this stuff is WELL beyond the scope of this README...
 
 >“Just because you're paranoid doesn't mean they aren't after you.”
->     ― Joseph Heller, Catch-22
+> <br>     ― Joseph Heller, Catch-22
 
 The most secure way to run the server is private and post or email encrypted images to receipiants. However, requires that both the sender and receipian0(s) install the server on their local computers.
 
