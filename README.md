@@ -24,6 +24,13 @@ npm start
 ```
 If all goes well, in your browser go to `http://localhost:8000` and you are ready to encrypt your first message into an image. (if not goes well... grrr... submit an issue on [github][5]. Your feedback is appreciated.)
 
+You can choose an image from you computer, let's say a pic of what you had for lunch (a facebook standard) and encrypt a message into it. The image with the text encrypted is displayed and you can right-click 'Save as...' - now post the image your FB wall.
+
+Unbeknownst to most your Facebook 'friends' - the in-plain-site image contains a sercret message. Might be for your mistress, boy toy, or secret instructions to your lawyer.
+
+They know that any time you post a lunch pic or better yet - a pic with a kitten in it - they Right-click -> 'Save as...' and then decrypt by providing the passphrase to their 'http://localhost:8000` they installed on their machine,
+
+
 [1]: https://github.com/mykeels/steganography
 [2]: https://github.com/rodrigouroz/steganography
 [3]: https://git-scm.com/
