@@ -10,9 +10,6 @@ Images are stored by the server to present a directory list of recently created 
 
 Although the server can be run exposed to the web (public), it is ultimately more secure to run as `localhost` (private). The advantage to a public server is the images with encrypted text are available online and users do not need to install the server to create and view messages.
 
->“Just because you're paranoid doesn't mean they aren't after you.”
-> <br>     ― Joseph Heller, Catch-22
-
 The most secure way to run the server is private and choose a local image to encrypt - then post or email to receipiants. However, that requires that both the sender and receipiant(s) install the server on their local computer.
 
 [git][3] and [nodejs][4] are required to install and run the server.
